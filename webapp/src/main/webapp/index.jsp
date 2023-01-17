@@ -1,4 +1,4 @@
-<h1>Welcome to the most boring Tomcat webapp ever ... boo </h1>
+<h1>Welcome to the testing only !!!</h1>
 
 <h2>Interesting things to do for today</h2>
 
